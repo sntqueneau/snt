@@ -3,7 +3,6 @@
 qq codes utiles pendant le cours de SNT
 
 <a href="/web"> Web </a>
-
 <a href="/données structurées">données structurées  </a>
 
 <a href="/ia	">ia  </a>
@@ -16,7 +15,7 @@ qq codes utiles pendant le cours de SNT
 
 <a href="/photo num		">  photo num	</a>
 
-<a href="/reseaux sociaux	"> /reseaux sociaux	 </a>
+<a href="/reseaux sociaux	"> Reseaux sociaux	 </a>
 
 senarii/Réseauxsociaux_diaporama_gen_pres	Add files via upload	2 months ago
 
