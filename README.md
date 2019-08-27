@@ -2,7 +2,8 @@
 
 qq codes utiles pendant le cours de SNT
 
-<a href="/snt/web"> Web </a>
+<a href="/snt/web"> Web </a>   
+
 <a href="/snt/données structurées">données structurées  </a>
 
 <a href="/snt/ia	">ia  </a>
